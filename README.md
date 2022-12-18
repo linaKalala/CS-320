@@ -1,1 +1,3 @@
-# CS-320
+How can I ensure that my code, program, or software is functional and secure? To ensure my code is function and secure, I need to test all the classes to capture any defects of the code. 
+How do I interpret user needs and incorporate them into a program? To interpret the user needs, we must first understand the software requirement, write a flowchart to design the code. Brainstorm the implementation and get the code together to incorporate their needs.
+How do I approach designing software? To design the software, I tend to have a checklist with all the software requirments and I make sure that I hit all the points, and once in quality control, I could get the feedback from them to improve it. 
